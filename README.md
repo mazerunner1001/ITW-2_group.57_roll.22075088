@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="![Screenshot (58)](https://github.com/mazerunner1001/ITW-2_group.57_roll.22075088/assets/134296969/6088980c-ecf1-4e8e-ad0e-6911f2166a50)">
+<img width="30%" src="![Screenshot (58)](https://github.com/mazerunner1001/ITW-2_group.57_roll.22075088/assets/134296969/12d482ef-cbf3-4584-a88c-ad3348de9419)">
 
 # The Discourse
 </div>
