@@ -1,6 +1,6 @@
 <div align="center">
  
-# The Discourse
+  # The Discourse
 </div>
 
 The Discourse is a web application that facilitates open and informed discussions on various social issues through chatrooms called "Discourse rooms." Users can register to create accounts, join existing chatrooms, and even create new ones to engage in debates on a wide range of social topics. The platform also features a dynamic interface with a list of topics, chatboxes in the center, and a recent activities box to keep users updated on the latest discussions.
