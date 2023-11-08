@@ -1,5 +1,5 @@
 """
-WSGI config for studybud project.
+WSGI config for TheDiscourse project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
